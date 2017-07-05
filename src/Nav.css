@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#navBar {
+    color: #FCFFFE;
+    background-color: #740b4f;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#navBar h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FCFFFE;
+}
+
+#navBar b {
+    color: #97e7cb;
+}
+
+#navBar p {
+    color: #FCFFFE;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+#navBar a:hover {
+    color: #97e7cb;
+}
+
+.btn:hover {
+    background-color: #97e7cb;
+}
+
+#player {
+    margin-top: 1em;
+}
+
+.listIcon:hover {
+    color: #97e7cb;
+}

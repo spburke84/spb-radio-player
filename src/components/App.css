@@ -1,0 +1,9 @@
+.songDetails {
+    height: 800px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.songDetails a {
+  color: white;
+}
